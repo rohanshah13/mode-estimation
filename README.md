@@ -28,3 +28,5 @@ d - mistake probability
 
 i - number of runs to average errors and samples
 ```
+
+Note: Use main_seed.py instead of main.py. This sets a seed for each run separately (seed i for run i), instead of setting a single seed for all the runs.
